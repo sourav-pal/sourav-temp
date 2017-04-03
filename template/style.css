@@ -1,0 +1,104 @@
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+::-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+:-ms-input-placeholder {
+  color: #999;
+}
+::-webkit-input-placeholder {
+  color: #999;
+}
+
+/* 
+ * element base styling  
+ */
+body {
+	font-size: 1.6rem;
+	line-height: 1.4;
+	color: #ddd;
+}
+
+h1 {
+	margin-bottom: 1.6rem;
+	font-size: 2.4rem;
+	line-height: 1.2;
+	font-weight: 700;
+}
+h2 {
+	margin-bottom: 1.6rem;
+	font-size: 2.4rem;
+	line-height: 1.3;
+	font-weight: 500;
+}
+h3 {
+	margin-bottom: 1.6rem;
+	font-size: 2.4rem;
+	line-height: 1.3;
+	font-weight: 500;
+}
+h4 {
+	margin-bottom: 1.6rem;
+	font-size: 2.4rem;
+	font-weight: 500;
+}
+h5 {
+	margin-bottom: 1.6rem;
+	font-size: 2rem;
+	font-weight: 500;
+}
+h6 {
+	margin-bottom: 1.6rem;
+	font-size: 1.8rem;
+	line-height: 1.4;
+	font-weight: 500;
+}
+p {
+	margin-bottom: 1.6rem;	
+}
+
+@media only screen and (min-width: 0px) {
+	
+}
+
+ /*
+ 	*	base classes
+ 	*/
+ 	
+
+/* 
+
+position
+----------
+position: re
+top, right, bottom, left;
+z-index: ????;
+
+box modeling
+
+display
+padding
+margin
+bgc
+color
+border
+{{   }}
+
+font
+
+size
+li
+wei
+tr
+
+
+
+*/
